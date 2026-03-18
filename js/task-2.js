@@ -1,3 +1,5 @@
+const getUsersWithFriend = (users, friendName);
+
 const allUsers = [
   {
     name: 'Moore Hensley',
